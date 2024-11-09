@@ -29,6 +29,9 @@ Repositorio para la asignatura de **Acceso a Datos** de segundo curso de **Desar
 8. **Ejercicio 8: CopyCaracteres**
     - [Ver ejercicio 8](Ejercicios/Ej8AD_CopyCaracteres)
 
+9. **Ejercicio 9: CopyCaracteres2**
+    - [Ver ejercicio 9](Ejercicios/Ej9AD_CopyCaracteres2)
+
 ## Instalación
 
 Para ejecutar los ejercicios en tu entorno local, clona el repositorio:
