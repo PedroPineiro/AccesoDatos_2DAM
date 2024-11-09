@@ -26,6 +26,9 @@ Repositorio para la asignatura de **Acceso a Datos** de segundo curso de **Desar
 7. **Ejercicio 7: ProductsStream**
    - [Ver ejercicio 7](Ejercicios/Ej7AD_ProductsStream)
 
+8. **Ejercicio 8: CopyCaracteres**
+    - [Ver ejercicio 8](Ejercicios/Ej8AD_CopyCaracteres)
+
 ## Instalación
 
 Para ejecutar los ejercicios en tu entorno local, clona el repositorio:
