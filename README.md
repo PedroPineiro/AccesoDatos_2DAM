@@ -3,7 +3,7 @@
 Repositorio para la asignatura de **Acceso a Datos** de segundo curso de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Aquí se encuentran los ejercicios prácticos, códigos y materiales relacionados con la asignatura, organizados por temas y entregas.
 
 <details>
-  <summary><span style="font-size: 1.75em; font-weight: bold;">Ejercicios</span></summary>
+  <summary>Ejercicios</summary>
 <p></p>
 
   1. **Ejercicio 1: Arquivos**
@@ -41,7 +41,7 @@ Repositorio para la asignatura de **Acceso a Datos** de segundo curso de **Desar
 </details>
 
 <details>
-  <summary><span style="font-size: 1.75em; font-weight: bold;">Instalación</span></summary>
+  <summary>Instalación</summary>
 <p></p>
 
   Para ejecutar los ejercicios en tu entorno local, clona el repositorio:
