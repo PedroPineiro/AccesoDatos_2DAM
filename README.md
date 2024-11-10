@@ -38,6 +38,9 @@ Repositorio para la asignatura de **Acceso a Datos** de segundo curso de **Desar
 
   11. **Ejercicio 11: Aleatorio**
       - [Ver ejercicio 11](Ejercicios/Ej11AD_Aleatorio)
+
+   12. **Ejercicio 12: Serializacion1**
+      - [Ver ejercicio 12](Ejercicios/Ej12AD_Serializacion1)
 </details>
 
 <details>
