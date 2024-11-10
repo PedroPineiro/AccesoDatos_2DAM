@@ -34,6 +34,9 @@ Repositorio para la asignatura de **Acceso a Datos** de segundo curso de **Desar
 10. **Ejercicio 10: TextoDelimitado**
     - [Ver ejercicio 10](Ejercicios/Ej10AD_TextoDelimitado)
 
+11. **Ejercicio 11: Aleatorio**
+    - [Ver ejercicio 11](Ejercicios/Ej11AD_Aleatorio)
+
 ## Instalación
 
 Para ejecutar los ejercicios en tu entorno local, clona el repositorio:
