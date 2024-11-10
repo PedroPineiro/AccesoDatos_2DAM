@@ -3,7 +3,7 @@
 Repositorio para la asignatura de **Acceso a Datos** de segundo curso de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Aquí se encuentran los ejercicios prácticos, códigos y materiales relacionados con la asignatura, organizados por temas y entregas.
 
 <details>
-  <summary>Ejercicios</summary>
+  <summary><strong>Ejercicios</strong></summary>
 <p></p>
 
   1. **Ejercicio 1: Arquivos**
@@ -42,12 +42,13 @@ Repositorio para la asignatura de **Acceso a Datos** de segundo curso de **Desar
    12. **Ejercicio 12: Serializacion1**
          - [Ver ejercicio 12](Ejercicios/Ej12AD_Serializacion1)
 
-
+   13. **Ejercicio 13: Serializacion2**
+         - [Ver ejercicio 13](Ejercicios/Ej13AD_Serializacion2)
 
 </details>
 
 <details>
-  <summary>Instalación</summary>
+  <summary><strong>Instalación</strong></summary>
 <p></p>
 
   Para ejecutar los ejercicios en tu entorno local, clona el repositorio:
