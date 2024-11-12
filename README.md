@@ -67,7 +67,7 @@ Repositorio para la asignatura de **Acceso a Datos** de segundo curso de **Desar
    4. **Base Relacional D**
       - [Ver ejercicio](Ejercicios/BaseRelacionalD)
 
-   </details>
+</details>
 
 </details>
 <p></p>
