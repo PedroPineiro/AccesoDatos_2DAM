@@ -1,6 +1,4 @@
 
-package baserelacionald;
-
 import java.sql.*;
 
 /**
