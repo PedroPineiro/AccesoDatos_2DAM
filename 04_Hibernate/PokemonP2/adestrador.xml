@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<Adestradores>
+    <Adestrador id="5">
+        <Nome>Ash</Nome>
+        <Nacemento>3891-01-09</Nacemento>
+    </Adestrador>
+    <Adestrador id="6">
+        <Nome>Misty</Nome>
+        <Nacemento>3892-09-13</Nacemento>
+    </Adestrador>
+    <Adestrador id="7">
+        <Nome>Ash</Nome>
+        <Nacemento>3891-01-09</Nacemento>
+    </Adestrador>
+    <Adestrador id="8">
+        <Nome>Misty</Nome>
+        <Nacemento>3892-09-13</Nacemento>
+    </Adestrador>
+    <Adestrador id="9">
+        <Nome>Ash</Nome>
+        <Nacemento>3891-01-09</Nacemento>
+    </Adestrador>
+    <Adestrador id="10">
+        <Nome>Misty</Nome>
+        <Nacemento>3892-09-13</Nacemento>
+    </Adestrador>
+    <Adestrador id="3">
+        <Nome>Maximo</Nome>
+        <Nacemento>3891-01-09</Nacemento>
+    </Adestrador>
+    <Adestrador id="4">
+        <Nome>Cintia</Nome>
+        <Nacemento>3892-09-13</Nacemento>
+    </Adestrador>
+    <Adestrador id="11">
+        <Nome>Ash</Nome>
+        <Nacemento>3891-01-09</Nacemento>
+    </Adestrador>
+    <Adestrador id="12">
+        <Nome>Misty</Nome>
+        <Nacemento>3892-09-13</Nacemento>
+    </Adestrador>
+</Adestradores>

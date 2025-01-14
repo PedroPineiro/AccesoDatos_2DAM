@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+<Pokedex>
+    <Pokedex id="61">
+        <Nome>Lucario</Nome>
+        <Peso>54.0</Peso>
+        <Misc>Tipo lucha</Misc>
+    </Pokedex>
+    <Pokedex id="62">
+        <Nome>Blaziken</Nome>
+        <Peso>52.0</Peso>
+        <Misc>Tipo fuego</Misc>
+    </Pokedex>
+    <Pokedex id="63">
+        <Nome>Greninja</Nome>
+        <Peso>40.0</Peso>
+        <Misc>Tipo agua</Misc>
+    </Pokedex>
+    <Pokedex id="64">
+        <Nome>Charizard</Nome>
+        <Peso>90.5</Peso>
+        <Misc>Tipo fuego</Misc>
+    </Pokedex>
+    <Pokedex id="41">
+        <Nome>Lucario</Nome>
+        <Peso>54.0</Peso>
+        <Misc>Tipo lucha</Misc>
+    </Pokedex>
+    <Pokedex id="42">
+        <Nome>Blaziken</Nome>
+        <Peso>52.0</Peso>
+        <Misc>Tipo fuego</Misc>
+    </Pokedex>
+    <Pokedex id="43">
+        <Nome>Greninja</Nome>
+        <Peso>40.0</Peso>
+        <Misc>Tipo agua</Misc>
+    </Pokedex>
+    <Pokedex id="44">
+        <Nome>Charizard</Nome>
+        <Peso>90.5</Peso>
+        <Misc>Tipo fuego</Misc>
+    </Pokedex>
+    <Pokedex id="45">
+        <Nome>Pikachu</Nome>
+        <Peso>6.0</Peso>
+        <Misc>Tipo electrico</Misc>
+    </Pokedex>
+    <Pokedex id="46">
+        <Nome>Gengar</Nome>
+        <Peso>40.5</Peso>
+        <Misc>Tipo fantasma</Misc>
+    </Pokedex>
+    <Pokedex id="47">
+        <Nome>Gyarados</Nome>
+        <Peso>235.0</Peso>
+        <Misc>Tipo agua</Misc>
+    </Pokedex>
+    <Pokedex id="48">
+        <Nome>Mewtwo</Nome>
+        <Peso>122.0</Peso>
+        <Misc>Tipo psiquico</Misc>
+    </Pokedex>
+    <Pokedex id="49">
+        <Nome>Rayquaza</Nome>
+        <Peso>206.5</Peso>
+        <Misc>Tipo dragon</Misc>
+    </Pokedex>
+    <Pokedex id="50">
+        <Nome>Arceus</Nome>
+        <Peso>320.0</Peso>
+        <Misc>Tipo normal</Misc>
+    </Pokedex>
+    <Pokedex id="51">
+        <Nome>Lucario</Nome>
+        <Peso>54.0</Peso>
+        <Misc>Tipo lucha</Misc>
+    </Pokedex>
+    <Pokedex id="52">
+        <Nome>Blaziken</Nome>
+        <Peso>52.0</Peso>
+        <Misc>Tipo fuego</Misc>
+    </Pokedex>
+    <Pokedex id="53">
+        <Nome>Greninja</Nome>
+        <Peso>40.0</Peso>
+        <Misc>Tipo agua</Misc>
+    </Pokedex>
+    <Pokedex id="54">
+        <Nome>Charizard</Nome>
+        <Peso>90.5</Peso>
+        <Misc>Tipo fuego</Misc>
+    </Pokedex>
+    <Pokedex id="55">
+        <Nome>Pikachu</Nome>
+        <Peso>6.0</Peso>
+        <Misc>Tipo electrico</Misc>
+    </Pokedex>
+    <Pokedex id="56">
+        <Nome>Gengar</Nome>
+        <Peso>40.5</Peso>
+        <Misc>Tipo fantasma</Misc>
+    </Pokedex>
+    <Pokedex id="57">
+        <Nome>Gyarados</Nome>
+        <Peso>235.0</Peso>
+        <Misc>Tipo agua</Misc>
+    </Pokedex>
+    <Pokedex id="58">
+        <Nome>Mewtwo</Nome>
+        <Peso>122.0</Peso>
+        <Misc>Tipo psiquico</Misc>
+    </Pokedex>
+    <Pokedex id="59">
+        <Nome>Rayquaza</Nome>
+        <Peso>206.5</Peso>
+        <Misc>Tipo dragon</Misc>
+    </Pokedex>
+    <Pokedex id="60">
+        <Nome>Arceus</Nome>
+        <Peso>320.0</Peso>
+        <Misc>Tipo normal</Misc>
+    </Pokedex>
+    <Pokedex id="65">
+        <Nome>Pikachu</Nome>
+        <Peso>6.0</Peso>
+        <Misc>Tipo electrico</Misc>
+    </Pokedex>
+    <Pokedex id="66">
+        <Nome>Gengar</Nome>
+        <Peso>40.5</Peso>
+        <Misc>Tipo fantasma</Misc>
+    </Pokedex>
+    <Pokedex id="67">
+        <Nome>Gyarados</Nome>
+        <Peso>235.0</Peso>
+        <Misc>Tipo agua</Misc>
+    </Pokedex>
+    <Pokedex id="68">
+        <Nome>Mewtwo</Nome>
+        <Peso>122.0</Peso>
+        <Misc>Tipo psiquico</Misc>
+    </Pokedex>
+    <Pokedex id="69">
+        <Nome>Rayquaza</Nome>
+        <Peso>206.5</Peso>
+        <Misc>Tipo dragon</Misc>
+    </Pokedex>
+    <Pokedex id="70">
+        <Nome>Arceus</Nome>
+        <Peso>320.0</Peso>
+        <Misc>Tipo normal</Misc>
+    </Pokedex>
+    <Pokedex id="71">
+        <Nome>Lucario</Nome>
+        <Peso>54.0</Peso>
+        <Misc>Tipo lucha</Misc>
+    </Pokedex>
+    <Pokedex id="72">
+        <Nome>Blaziken</Nome>
+        <Peso>52.0</Peso>
+        <Misc>Tipo fuego</Misc>
+    </Pokedex>
+    <Pokedex id="73">
+        <Nome>Greninja</Nome>
+        <Peso>40.0</Peso>
+        <Misc>Tipo agua</Misc>
+    </Pokedex>
+    <Pokedex id="74">
+        <Nome>Charizard</Nome>
+        <Peso>90.5</Peso>
+        <Misc>Tipo fuego</Misc>
+    </Pokedex>
+    <Pokedex id="75">
+        <Nome>Pikachu</Nome>
+        <Peso>6.0</Peso>
+        <Misc>Tipo electrico</Misc>
+    </Pokedex>
+    <Pokedex id="76">
+        <Nome>Gengar</Nome>
+        <Peso>40.5</Peso>
+        <Misc>Tipo fantasma</Misc>
+    </Pokedex>
+    <Pokedex id="77">
+        <Nome>Gyarados</Nome>
+        <Peso>235.0</Peso>
+        <Misc>Tipo agua</Misc>
+    </Pokedex>
+    <Pokedex id="78">
+        <Nome>Mewtwo</Nome>
+        <Peso>122.0</Peso>
+        <Misc>Tipo psiquico</Misc>
+    </Pokedex>
+    <Pokedex id="79">
+        <Nome>Rayquaza</Nome>
+        <Peso>206.5</Peso>
+        <Misc>Tipo dragon</Misc>
+    </Pokedex>
+    <Pokedex id="80">
+        <Nome>Arceus</Nome>
+        <Peso>320.0</Peso>
+        <Misc>Tipo normal</Misc>
+    </Pokedex>
+    <Pokedex id="81">
+        <Nome>Lucario</Nome>
+        <Peso>54.0</Peso>
+        <Misc>Tipo lucha</Misc>
+    </Pokedex>
+    <Pokedex id="82">
+        <Nome>Blaziken</Nome>
+        <Peso>52.0</Peso>
+        <Misc>Tipo fuego</Misc>
+    </Pokedex>
+    <Pokedex id="83">
+        <Nome>Greninja</Nome>
+        <Peso>40.0</Peso>
+        <Misc>Tipo agua</Misc>
+    </Pokedex>
+    <Pokedex id="84">
+        <Nome>Charizard</Nome>
+        <Peso>90.5</Peso>
+        <Misc>Tipo fuego</Misc>
+    </Pokedex>
+    <Pokedex id="85">
+        <Nome>Pikachu</Nome>
+        <Peso>6.0</Peso>
+        <Misc>Tipo electrico</Misc>
+    </Pokedex>
+    <Pokedex id="86">
+        <Nome>Gengar</Nome>
+        <Peso>40.5</Peso>
+        <Misc>Tipo fantasma</Misc>
+    </Pokedex>
+    <Pokedex id="87">
+        <Nome>Gyarados</Nome>
+        <Peso>235.0</Peso>
+        <Misc>Tipo agua</Misc>
+    </Pokedex>
+    <Pokedex id="88">
+        <Nome>Mewtwo</Nome>
+        <Peso>122.0</Peso>
+        <Misc>Tipo psiquico</Misc>
+    </Pokedex>
+    <Pokedex id="89">
+        <Nome>Rayquaza</Nome>
+        <Peso>206.5</Peso>
+        <Misc>Tipo dragon</Misc>
+    </Pokedex>
+    <Pokedex id="90">
+        <Nome>Arceus</Nome>
+        <Peso>320.0</Peso>
+        <Misc>Tipo normal</Misc>
+    </Pokedex>
+</Pokedex>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="LibreriaHibernate">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Librerias/LibreriaHibernate" />
+      <root url="file://$PROJECT_DIR$/../../Librerias/LibreriaPostgres" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Librerias/LibreriaHibernate" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Librerias/LibreriaPostgres" recursive="false" />
+  </library>
+</component>

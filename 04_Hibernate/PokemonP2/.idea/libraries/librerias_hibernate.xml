@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="librerias_hibernate">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Descargas/postgresql-42.2.23.jar!/" />
+      <root url="file://$USER_HOME$/Descargas/librerias_hibernate" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Descargas/librerias_hibernate" recursive="false" />
+  </library>
+</component>
