@@ -77,9 +77,11 @@ Repositorio para la asignatura de **Acceso a Datos** de segundo curso de **Desar
   <summary><strong>Librerias</strong></summary>
 <p></p>
 
-[Libreria Postgres](Librerias/LibreriaPostgres)
+[Postgres](Librerias/Postgres)
 
-[Librerias Hibernate](Librerias/LibreriaHibernate)
+[Hibernate](Librerias/Hibernate)
+
+[Jackson](Librerias/Jackson)
 
 </details>
 
